@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MovieLand
+MovieLand is a website developed using React.js for searching for movies, through the OMDb API. It is a guided project (Credit: JavaScript Mastery) created to learnt the fundamentals of using React Components, State and Hooks.
 
 ## Available Scripts
 
