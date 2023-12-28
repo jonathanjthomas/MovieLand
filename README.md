@@ -2,7 +2,7 @@
 MovieLand is a website developed using React.js for searching for movies, through the OMDb API. It is a guided project (Credit: JavaScript Mastery) created to learnt the fundamentals of using React Components, State and Hooks.
 
 Run "npm install" after cloning the repository to install the required project dependencies.
-Demo it on https://movie-land-deployed.vercel.app/
+
 
 ## Available Scripts
 
